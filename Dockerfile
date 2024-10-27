@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-proxy-sqlite3:ubuntu-7.0.4
+FROM zabbix/zabbix-proxy-sqlite3:ubuntu-7.0.5
 
 USER zabbix
 
